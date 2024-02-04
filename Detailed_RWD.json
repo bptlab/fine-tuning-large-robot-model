@@ -1,0 +1,91 @@
+{
+  "RWD": {
+    "process_name": "Name of the process",
+    "process_description": "Description of the process",
+    "automation_tool": "Name or description of the automation tool",
+    "systems_involved": [
+      {
+        "system_id": "Identifier for the system involved in the process",
+        "system_name": "Name of the system",
+        "system_description": "Description of the system",
+        "path": "Path or location related to the system",
+        "system_interactions": [
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          },
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          },
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "system_id": "Identifier for the system involved in the process",
+        "system_name": "Name of the system",
+        "system_description": "Description of the system",
+        "path": "Path or location related to the system",
+        "system_interactions": [
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          },
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          },
+          {
+            "action_name": "Name of the action performed on the system",
+            "action_type": "Type or category of the action",
+            "interaction_element_type": "Type of element involved in the interaction",
+            "ui_locators": [
+              {
+                "locator_type": "Type of locator used in the UI interaction",
+                "locator_value": "Value or identifier for the locator in the UI"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
